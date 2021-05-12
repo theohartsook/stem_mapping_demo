@@ -1,0 +1,8 @@
+name: stem_mapping_demos
+channels:
+  - conda-forge
+dependencies:
+  - matplotlib
+  - numpy
+  - pandas
+  - skimage
